@@ -1,0 +1,17 @@
+/.vscode
+i386*
+*.i386*
+x86_64*
+*.x86_64*
+arm64_*
+aarch64_*
+*.arm64_*
+*~
+*.deps
+.DS_Store
+config_pkg.h
+config_pkg.h.old
+config.mk
+*.so
+cmake-build-debug
+.actsim_history

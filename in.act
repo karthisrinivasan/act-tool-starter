@@ -1,0 +1,8 @@
+defproc chp_proc (chan?(int) L; chan!(int) R)
+{
+    int x;
+    chp {
+        *[ L?x; R!x ]
+    }
+}
+
