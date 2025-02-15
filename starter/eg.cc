@@ -22,5 +22,8 @@
 
 #include "eg.h"
 
-
+void eg_function (std::string s)
+{
+    fprintf (stdout, "%s", s.c_str());
+}
 

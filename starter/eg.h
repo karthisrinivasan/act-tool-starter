@@ -24,8 +24,5 @@
 
 #include <string>
 
-void eg_function (std::string s)
-{
-    fprintf ()
-}
+void eg_function (std::string s);
 
